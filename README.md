@@ -1,1 +1,15 @@
-# freegamesbyqvlad12gamerANDROID
+<html>
+<head>
+<title>Jocuri Pentru ANDROID</title>
+</head>
+<body>
+<center>
+<hl><font color="black"<p><b>Jocuri ANDROID</b></p>
+<p>By qVlad12 Gamer</p>                                                                                                  
+</center>
+<p><text>Jocuri ANDROID:</text></p>
+<p><text>1.-> Minecraft> Pocket Edition -----------</text> <a href="https://mega.nz/#!7RBF2S4T!RbHNbNbPSUx0Yck3ljIs8XZmq2x-Rck9to5fsWvirrw">LINK FOR DOWNLOAD</a></p>
+<p><text>2.</text></p>
+<p><text>3.</text></p>
+</body>
+</html>
